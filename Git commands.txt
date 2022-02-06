@@ -1,0 +1,17 @@
+git add .
+git commit -m "This is first code"
+git push
+git push --force
+git pull
+git clone
+git stash
+git checkout <branch>
+git branch
+git log
+git status
+git init
+git reset --hard HEAD~1
+git reset --soft HEAD~1
+git commit --ammend
+git revert <commit hash>
+git merge <source branch>
